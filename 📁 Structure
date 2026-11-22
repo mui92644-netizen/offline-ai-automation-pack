@@ -1,0 +1,5 @@
+├── main.py                 # Core orchestrator (O-D-A-V loop)
+├── agent-browsing.config.json
+├── .env
+├── requirements.txt
+└── README.md
